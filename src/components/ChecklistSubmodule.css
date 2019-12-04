@@ -1,0 +1,8 @@
+
+.submodule {
+    display: grid;
+    grid-template-columns: 8fr 1fr 1fr;
+    width: 75vw;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,30 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax( 400px, 1fr ));
+  gap: 1rem;
+  max-width: 100vw;
+}
+
+.top-nav {
+  height: 1px;
+  display: grid;
+  justify-content: center;
+  grid-auto-flow: column;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #444;
+  position: fixed;
+  width: 100%;
+}
+
+.top-nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
