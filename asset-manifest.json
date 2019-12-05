@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oppgave/static/css/main.fb752041.chunk.css",
-    "main.js": "/oppgave/static/js/main.1c5ac654.chunk.js",
-    "main.js.map": "/oppgave/static/js/main.1c5ac654.chunk.js.map",
+    "main.js": "/oppgave/static/js/main.038d4f3e.chunk.js",
+    "main.js.map": "/oppgave/static/js/main.038d4f3e.chunk.js.map",
     "runtime-main.js": "/oppgave/static/js/runtime-main.e6c55696.js",
     "runtime-main.js.map": "/oppgave/static/js/runtime-main.e6c55696.js.map",
     "static/js/2.174b6671.chunk.js": "/oppgave/static/js/2.174b6671.chunk.js",
     "static/js/2.174b6671.chunk.js.map": "/oppgave/static/js/2.174b6671.chunk.js.map",
     "index.html": "/oppgave/index.html",
-    "precache-manifest.162f6ce26d681dc4794501f99f2946c8.js": "/oppgave/precache-manifest.162f6ce26d681dc4794501f99f2946c8.js",
+    "precache-manifest.f1c0dace7c0267310d82d0f74a379ba1.js": "/oppgave/precache-manifest.f1c0dace7c0267310d82d0f74a379ba1.js",
     "service-worker.js": "/oppgave/service-worker.js",
     "static/css/main.fb752041.chunk.css.map": "/oppgave/static/css/main.fb752041.chunk.css.map",
     "static/media/2fast2furious.jpg": "/oppgave/static/media/2fast2furious.7f3ac66e.jpg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.e6c55696.js",
     "static/js/2.174b6671.chunk.js",
     "static/css/main.fb752041.chunk.css",
-    "static/js/main.1c5ac654.chunk.js"
+    "static/js/main.038d4f3e.chunk.js"
   ]
 }
