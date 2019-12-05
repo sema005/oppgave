@@ -12,6 +12,7 @@ const FilterMovies = () => {
         setMovies(Movies.movie.filter(movie => movie.title.toLowerCase().includes(e.target.value.toLowerCase())))
     }
 
+
     const genres = [
         "Comedy",
         "Thriller",
@@ -38,6 +39,10 @@ const FilterMovies = () => {
         setMovies(Movies.movie.filter(movie => movie.sjanger.includes(val), console.log(val)))
     }
 
+    const alle = () => {
+        setMovies(Movies.movie.filter(movie => movie.sjanger))
+    }
+
     return (
         <div>
             <h1 className="test">Top 30 movies</h1>
@@ -45,7 +50,7 @@ const FilterMovies = () => {
                 <div className="black"></div>
                 <div>
                     <div className="search-sjangere">
-                        <div class="input-search">
+                        <div className="input-search">
                             <input
                                 type="text"
                                 placeholder="Søk etter film. Eks: E.t"
@@ -54,7 +59,7 @@ const FilterMovies = () => {
                         </div>
                         <div className="sjangere">
                             {genres.map((genre, i) => <GenreButton key={i} filterSjangre={filterSjangre} genre={genre}/>)}
-                            <button className="sjanger">Alle</button>
+                            <button onClick={alle} className="sjanger">Alle</button>
                         </div>
                     </div>
                     <div className="movies">
@@ -66,7 +71,7 @@ const FilterMovies = () => {
                             img={movie.img}
                             sjanger={movie.sjanger}
                             addToFavorite={addToFavorite}/>)
-    }
+}
                     </div>
                 </div>
                 <div className="black"></div>

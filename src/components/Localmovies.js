@@ -22,7 +22,7 @@ const Localmovies = (props) => {
     }
 
                     </h1>
-                    <p>Sjanger: {props.sjanger + " "}
+                    <p>{props.sjanger + ' '}
                     </p>
                     <li>{props.releaseYear}</li>
                     <div className="favorite"></div>
