@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oppgave/static/css/main.fb752041.chunk.css",
+    "main.css": "/oppgave/static/css/main.25fb9fb1.chunk.css",
     "main.js": "/oppgave/static/js/main.038d4f3e.chunk.js",
     "main.js.map": "/oppgave/static/js/main.038d4f3e.chunk.js.map",
     "runtime-main.js": "/oppgave/static/js/runtime-main.e6c55696.js",
@@ -8,9 +8,9 @@
     "static/js/2.174b6671.chunk.js": "/oppgave/static/js/2.174b6671.chunk.js",
     "static/js/2.174b6671.chunk.js.map": "/oppgave/static/js/2.174b6671.chunk.js.map",
     "index.html": "/oppgave/index.html",
-    "precache-manifest.f1c0dace7c0267310d82d0f74a379ba1.js": "/oppgave/precache-manifest.f1c0dace7c0267310d82d0f74a379ba1.js",
+    "precache-manifest.9e26ea21e082ccd20fc8d73361e9c758.js": "/oppgave/precache-manifest.9e26ea21e082ccd20fc8d73361e9c758.js",
     "service-worker.js": "/oppgave/service-worker.js",
-    "static/css/main.fb752041.chunk.css.map": "/oppgave/static/css/main.fb752041.chunk.css.map",
+    "static/css/main.25fb9fb1.chunk.css.map": "/oppgave/static/css/main.25fb9fb1.chunk.css.map",
     "static/media/2fast2furious.jpg": "/oppgave/static/media/2fast2furious.7f3ac66e.jpg",
     "static/media/Shawshank.jpg": "/oppgave/static/media/Shawshank.ae718ee9.jpg",
     "static/media/avengers-endgame.jpg": "/oppgave/static/media/avengers-endgame.1b946d49.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.e6c55696.js",
     "static/js/2.174b6671.chunk.js",
-    "static/css/main.fb752041.chunk.css",
+    "static/css/main.25fb9fb1.chunk.css",
     "static/js/main.038d4f3e.chunk.js"
   ]
 }
